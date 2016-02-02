@@ -1,0 +1,2 @@
+commands:
+- "tempban %player% 5m Deathban"

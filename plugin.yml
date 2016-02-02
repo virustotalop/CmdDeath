@@ -1,0 +1,4 @@
+name: CmdDeath
+main: me.virustotal.cmddeath.CmdDeath
+version: 1.0
+author: VirusTotal
